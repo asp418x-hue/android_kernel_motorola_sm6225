@@ -1,0 +1,9 @@
+__crc_socinfo_get_id = 0x730a46e6;
+__crc_socinfo_get_id_string = 0x362f0499;
+__crc_socinfo_get_serial_number = 0xd3b5f1bb;
+__crc_socinfo_get_feature_code = 0xfcf2dc8e;
+__crc_socinfo_get_pcode = 0xf3617ca8;
+__crc_socinfo_get_partinfo_details = 0x942e6d1a;
+__crc_socinfo_get_msm_cpu = 0x28b310d2;
+__crc_socinfo_get_cluster_info = 0xaeef977e;
+__crc_socinfo_get_part_info = 0x55ff92bf;

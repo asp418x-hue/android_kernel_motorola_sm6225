@@ -1,0 +1,9 @@
+__crc_utf8_to_utf32 = 0x94bf03ca;
+__crc_utf32_to_utf8 = 0x2875a315;
+__crc_utf8s_to_utf16s = 0x97adb487;
+__crc_utf16s_to_utf8s = 0xabf32f29;
+__crc___register_nls = 0xb807083b;
+__crc_unregister_nls = 0x7855e356;
+__crc_unload_nls = 0x4c558c9a;
+__crc_load_nls = 0x3159fbaa;
+__crc_load_nls_default = 0xd2cf8f8d;

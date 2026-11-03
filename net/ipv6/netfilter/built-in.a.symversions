@@ -1,0 +1,15 @@
+__crc_ip6t_alloc_initial_table = 0xc2a02c35;
+__crc_ip6t_register_table = 0x3db0a052;
+__crc_ip6t_unregister_table = 0x6fb95c1d;
+__crc_ip6t_do_table = 0x2c4a498a;
+__crc_nf_defrag_ipv6_enable = 0x0c68c149;
+__crc_nf_ct_frag6_gather = 0xbde06f03;
+__crc_nf_sk_lookup_slow_v6 = 0x7ea1eca7;
+__crc_nf_tproxy_laddr6 = 0xd7b20f52;
+__crc_nf_tproxy_handle_time_wait6 = 0x3a6c3ab8;
+__crc_nf_tproxy_get_sock_v6 = 0x0289cc6c;
+__crc_nf_reject_ip6_tcphdr_get = 0x37c13bda;
+__crc_nf_reject_ip6hdr_put = 0xd711aef7;
+__crc_nf_reject_ip6_tcphdr_put = 0x38c38ffd;
+__crc_nf_send_reset6 = 0x691c6924;
+__crc_nf_send_unreach6 = 0x49df4e34;
